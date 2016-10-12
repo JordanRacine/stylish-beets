@@ -3,11 +3,12 @@ html {
 }
 
 h1 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
+  text-decoration: none;
 }
 
 nav ol li {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   color: #8f2440;
 
 }

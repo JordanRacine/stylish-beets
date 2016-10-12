@@ -14,3 +14,7 @@ nav ol li {
 nav ol li a {
   color: #8f2440;
 }
+
+figure figcaption {
+  font-style: italic;
+}

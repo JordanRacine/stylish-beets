@@ -5,3 +5,8 @@ html {
 h1 {
   font-family: 'PT Sans', sans-serif;
 }
+
+nav ol li {
+  font-family: 'PT Sans', sans-serif;
+  color: #8f2440;
+}

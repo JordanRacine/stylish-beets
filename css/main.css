@@ -24,3 +24,23 @@ figure figcaption {
 dt {
   font-weight: bold;
 }
+
+p:nth-last-of-type(3){
+  font-weight: bold;
+  font-family: "PT Serif", serif;
+}
+
+p:nth-last-of-type(1+2) {
+  font-family: "PT Serif", serif;
+  font-size: 1.125rem;
+}
+
+a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3f1622;
+  text-decoration: none;
+}

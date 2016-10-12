@@ -2,6 +2,6 @@ html {
   background-color: #c9b5ab;
 }
 
-header {
-  color: #8f2440;
+h1 {
+  font-family: 'PT Sans', sans-serif;
 }

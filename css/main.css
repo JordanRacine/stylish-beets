@@ -44,3 +44,13 @@ a:hover {
   color: #3f1622;
   text-decoration: none;
 }
+
+blockquote {
+  font-family: "PT Serif", serif;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.chris{
+  font-size: 0.8rem;
+}

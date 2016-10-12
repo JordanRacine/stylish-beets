@@ -1,5 +1,7 @@
 html {
   background-color: #c9b5ab;
+  line-height: 1.5;
+  font-weight: normal;
 }
 
 h1 {
@@ -25,7 +27,7 @@ dt {
   font-weight: bold;
 }
 
-p:nth-last-of-type(3){
+p:nth-last-of-type(3) {
   font-weight: bold;
   font-family: "PT Serif", serif;
 }
@@ -51,6 +53,14 @@ blockquote {
   font-style: italic;
 }
 
-.chris{
+.chris {
   font-size: 0.8rem;
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  list-style-type: circle;
 }
